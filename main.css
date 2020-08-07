@@ -99,6 +99,7 @@ section {
     font-size: 1.2em;
     line-height: 1.6em;
     box-sizing: border-box;
+    word-wrap:  break-word;
 }
 
 footer {
